@@ -1,0 +1,11 @@
+.btn {
+    padding: 4rem 6rem;
+    background: blue;
+}
+
+.red-btn{
+    background-color: red;
+}
+.white-btn{
+    background-color: white;
+}
